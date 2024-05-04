@@ -5,10 +5,10 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### ✌ &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions for ideas that come to me.\
+💡 &nbsp;I like to design, build, and learn as much as I can in my free time.\
 🎓 &nbsp; I took Civil Engineering and Electrical in school.\
-🎛 &nbsp;I work in the Film Industry using drones. Worked on over 75 productions including The Boys, Handmaid's Tale.. etc .\
-✍️ &nbsp;In my free time, I code fun projects, I build fun electrical projects using Arduino, and I go on hikes/bikes.\
+🎛 &nbsp;I work in the Film Industry using drones for Amazon, Apple, Netflix...\
+✍️ &nbsp;In my free time, I code fun things, and build fun electrical things using Arduino.\
 📄 &nbsp;See my [website](https://brettlinseman.com) for more details about me. I'm open to feedback and suggestions!
 
 
