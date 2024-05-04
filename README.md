@@ -5,7 +5,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### ✌ &nbsp;About Me
 
-💡 &nbsp;I like to design, build, and learn as much as I can in my free time.\
+💡 &nbsp;I like to design, build, and learn as much as I can.\
 🎓 &nbsp; I took Civil Engineering and Electrical in school.\
 🎛 &nbsp;I work in the Film Industry using drones for Amazon, Apple, Netflix...\
 ✍️ &nbsp;In my free time, I code fun things, and build fun electrical things using Arduino.\
@@ -19,7 +19,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
-### 🪛 🔫 &nbsp;Other Tech Stack
+### 🔫 &nbsp;Other Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
