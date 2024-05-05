@@ -5,11 +5,11 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### ✌ &nbsp;About Me
 
-💡 &nbsp;I like to design, build, and learn as much as I can.\
-🎓 &nbsp; I took Civil Engineering and Electrical in school.\
-🎛 &nbsp;I work in the Film Industry using drones for Amazon, Apple, Netflix...\
-✍️ &nbsp;In my free time, I code fun things, and build fun electrical things using Arduino.\
-📄 &nbsp;See my [website](https://brettlinseman.com) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;I love to build things in my free time.\
+🎓 &nbsp;I took Civil Engineering and Electrical in school.\
+🎛 &nbsp;I've worked 10 years in the film industry on sets for Amazon, Apple, Netflix...\
+✍️ &nbsp;I am trying to learn to cook, to the detriment of my love ones.\
+📄 &nbsp;See my [website](https://brettlinseman.com) for portfolio & project write-ups!
 
 
 ### 🛠 &nbsp;Core Tech Stack
