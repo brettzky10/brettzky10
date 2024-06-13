@@ -9,7 +9,7 @@
 🎓 &nbsp;I took Civil Engineering and Electrical in school.\
 🎛 &nbsp;I've worked 10 years in the film industry on sets for Amazon, Apple, Netflix...\
 ✍️ &nbsp;I am trying to learn to cook, to the detriment of my love ones.\
-📄 &nbsp;See my [website](https://brettlinseman.com) for portfolio & project write-ups!
+
 
 
 ### 🛠 &nbsp;Core Tech Stack
