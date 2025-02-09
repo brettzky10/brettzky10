@@ -3,14 +3,46 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">👋 Hey there! I'm Brett</h2>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<!--
-### ✌ &nbsp;About Me
 
-💡 &nbsp;I enjoy building things in my free time.\
-🎓 &nbsp;I took Civil Engineering and Electrical in school.\
-🎛 &nbsp;I've worked 10 years in the film industry on sets for Amazon, Apple, Netflix...\
-✍️ &nbsp;I am trying to learn to cook, to the detriment of my love ones.\
--->
+## ✌ &nbsp;About Me
+
+💡 &nbsp;I code in my free time.\
+🎓 &nbsp;Always looking to learn new skills!\
+🎛 &nbsp;I'm always looking to collaborate.\
+✍️ &nbsp;Documenting my progress as I continue my coding journey.\
+
+
+
+
+
+
+## ✌ &nbsp;Projects
+
+<a href="https://github.com/brettzky10/product-potion">
+    Product Potion
+  </a> 
+  <br/>Build & manage multiple businesses from one dashboard. 
+  
+  <br/>- Create unique subdomains for each business
+  <br/>- Add banners and sales for discounted products
+  <br/>- Vectorized products using Open AI for semantic search
+  <br/>- Product photo editing tools using Replicate
+<br/>**Tech:** Next14, Supabase, Prisma, Typescript, Redux, React-query, Open AI, Replicate 
+
+
+
+<a href="https://github.com/brettzky10/recovery-1">
+    Kineteck
+  </a> 
+  <br/>Run a recovery/rehab business using the latest in AI assistance. 
+  
+  <br/>- Build custom fitness plans/courses for users that they can purchase
+  <br/>- Communicate using a discord-like inteface with video conferencing
+  <br/>- RAG setup for fast retrieval of information from PDF's
+  <br/>- Train an AI assistant character to talk to customers about basic fitness goals
+<br/>**Tech:** Next14, Prisma, Typescript, Pinecone 
+
+
 
 
 ### 🛠 &nbsp;Core Tech Stack
@@ -69,7 +101,7 @@
        alt="snake" /></a>
 </div>
 -->
-
+<!--
 ### 🤝🏻 &nbsp;Connect with Me
 
 💬 &nbsp;Feel free to reach out to me for collaboration or consulting.
@@ -78,7 +110,7 @@
 <a href="mailto:brett.linseman@gmail.com"><img src="https://img.shields.io/badge/-Brettzky10-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<!--
+
 **brettzky10/brettzky10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
