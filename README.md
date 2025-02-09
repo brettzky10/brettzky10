@@ -3,13 +3,14 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">👋 Hey there! I'm Brett</h2>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!--
 ### ✌ &nbsp;About Me
 
-💡 &nbsp;I love to build things in my free time.\
+💡 &nbsp;I enjoy building things in my free time.\
 🎓 &nbsp;I took Civil Engineering and Electrical in school.\
 🎛 &nbsp;I've worked 10 years in the film industry on sets for Amazon, Apple, Netflix...\
 ✍️ &nbsp;I am trying to learn to cook, to the detriment of my love ones.\
-
+-->
 
 
 ### 🛠 &nbsp;Core Tech Stack
@@ -61,15 +62,17 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
 -->
+<!--
 <div align="center">
   <a href="https://github.com/brettzky10/">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+-->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-💬 &nbsp;Feel free to reach out to me for collaboration, consulting, or just for some interesting discussion.
+💬 &nbsp;Feel free to reach out to me for collaboration or consulting.
 
 <p align="center">
 <a href="mailto:brett.linseman@gmail.com"><img src="https://img.shields.io/badge/-Brettzky10-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
